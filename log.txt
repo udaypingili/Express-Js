@@ -1,2 +1,5 @@
  1746420216923 Request URL: /users/10, Request Method: GET
  1746420279641 Request URL: /users/1, Request Method: GET
+ 1746428190400 Request URL: /, Request Method: GET
+ 1746428637268 Request URL: /api/users, Request Method: POST
+1746437461261 - Request: POST /api/users
